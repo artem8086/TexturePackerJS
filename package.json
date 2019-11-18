@@ -1,0 +1,15 @@
+{
+  "name": "texturepacker",
+  "version": "1.0.0",
+  "description": "Pack images to one texture",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "coffee index.coffee"
+  },
+  "author": "Artem_8086",
+  "license": "ISC",
+  "devDependencies": {
+    "coffeescript": "^2.4.1",
+    "free-tex-packer-core": "^0.2.4"
+  }
+}
