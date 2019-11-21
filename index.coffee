@@ -6,6 +6,7 @@ options =
 	allowRotation: false
 	detectIdentical: true
 	allowTrim: true
+	extrude: 1
 	packer: 'MaxRectsPacker'
 	packerMethod: 'Smart'
 	removeFileExtension: true
